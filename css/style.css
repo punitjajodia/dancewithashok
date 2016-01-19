@@ -1452,6 +1452,11 @@ footer .copyright {
     margin-bottom: 10px;
 }
 
+#our-studio{
+    color:white;
+    text-align:center;
+}
+
 #our-studio h2 {
     color: #D91D52;
     text-transform: uppercase;      
@@ -1605,7 +1610,7 @@ footer .copyright {
 }
 
 #about .inset-1 {
-    padding-bottom:0;
+    padding-bottom:20px;
 }
 
 #popup {
@@ -1627,4 +1632,11 @@ footer .copyright {
 
 .faq {
     margin-top: 0!important;
+}
+
+@media (min-width:728px){
+    #our-studio img {
+        display: block;
+        margin-top: 100px;
+    }
 }
