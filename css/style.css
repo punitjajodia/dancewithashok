@@ -1455,7 +1455,6 @@ footer .copyright {
 #our-studio h2 {
     color: #D91D52;
     text-transform: uppercase;      
-    background: white;
 }
 
 .post_caption time .day {
@@ -1475,7 +1474,7 @@ footer .copyright {
 .post_caption time .level {
     display: block;
     margin-top: 12px;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .post_caption_cnt .description-text {
@@ -1526,9 +1525,9 @@ footer .copyright {
 
 
 .question {
-    padding: 10px;
-    background: #F0F54B;
-    margin-bottom: 2px;
+    padding: 20px;
+    background: #F0F54B; /*yellow*/
+    margin-bottom: 5px;
     color: black;
     font-weight: 700;
     cursor: pointer;
@@ -1540,4 +1539,92 @@ footer .copyright {
     padding: 20px 30px;
     display: none;
     transition: display 0.8s;
+}
+
+#beginners .row .row {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+#beginners .description {
+    text-align: left;
+}
+
+@media (max-width: 767px) {
+    #beginners .post {
+        max-width: 100%;
+    }
+
+    #events .post {
+        max-width: 100%;
+    }
+}
+
+.strip {
+    color: #D91D52; /*pink*/
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+}
+
+#events .post_caption_cnt {
+    padding: 20px;
+}
+
+#events .post_caption_cnt {
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 19px;
+}
+
+#events .post_caption_cnt h5 {
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 22px;
+    margin-top: 10px;
+}
+
+.about-salsa-current {  
+    color: white;
+    text-transform: none;
+    font-weight: normal;
+    padding: 10px;
+    text-align: justify;
+}
+
+.about-salsa-description {
+    display:none;
+}
+
+.about-salsa-header {
+    color: #F0F54B;
+}
+
+.about-salsa-info {
+    cursor: pointer;
+}
+
+#about .inset-1 {
+    padding-bottom:0;
+}
+
+#popup {
+    display: none;
+    position: fixed;
+    top: 25vh;
+    left: 25vw;
+    width: 50vw;
+   z-index: 100000;
+   background: white;
+   color: black;
+   padding: 100px;
+}
+
+
+#classes .product {
+   height: 650px;
+}
+
+.faq {
+    margin-top: 0!important;
 }
