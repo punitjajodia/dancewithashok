@@ -1462,19 +1462,19 @@ footer .copyright {
     text-transform: uppercase;      
 }
 
-.post_caption time .day {
+/*.post_caption time .day {
   font-size: 28px;
   line-height: 28px;
   display: inline;
-}
+}*/
 
-.post_caption time .month {
+/*.post_caption time .month {
   font-size: 28px;
   line-height: 28px;
   display: inline;
   letter-spacing: 1.68px;
   text-transform: uppercase;
-}
+}*/
 
 .post_caption time .level {
     display: block;
@@ -1485,7 +1485,7 @@ footer .copyright {
 .post_caption_cnt .description-text {
     font-family: Roboto;
     line-height: 23px;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 #faqs h2 {

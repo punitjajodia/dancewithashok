@@ -10,11 +10,11 @@
     }
 });
 
-//$(".about-salsa-header").click(function (e) {
-//    e.preventDefault();
+$(".about-salsa-header").click(function (e) {
+    e.preventDefault();
 
-//    $("#popup").html($(this).siblings(".about-salsa-description").html());
-//    $("#popup").show();
+    $("#popup").html($(this).siblings(".about-salsa-description").html());
+    $("#popup").show();
 
-//});
+});
 
