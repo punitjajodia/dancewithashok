@@ -667,7 +667,8 @@
 
                     <p class="text-secondary-1">For further information on classes, please fill in <br> the contact form
                         below:</p>
-                    <!--RD Mailform-->
+                     <!--RD Mailform-->
+                     <!--RD Mailform-->
                     <form class='mailform' method="post" action="bat/rd-mailform.php">
                         <input type="hidden" name="form-type" value="contact"/>
                         <fieldset>
@@ -676,6 +677,11 @@
                                        name="name"
                                        placeholder="your name"
                                        data-constraints="@LettersOnly @NotEmpty"/>
+                            </label>
+
+							<label class="textarea" data-add-placeholder="">
+                                <textarea name="address" placeholder="Your Address"
+                                          data-constraints="@NotEmpty"></textarea>
                             </label>
 
                             <label data-add-placeholder="">
@@ -692,9 +698,25 @@
                                        data-constraints="@Phone"/>
                             </label>
 
+							<label class="select" data-add-placeholder="Hello">
+                                <select name="Batch">
+                                    <option>Jan 28 Batch</option>
+                                    <option>Feb 5 Batch</option>
+                                </select>
+                            </label>
+
+							<label class="select mfSelect" data-add-placeholder="Hello">
+                                <select name="Timings">
+                                    <option>5:00 to 6:00pm</option>
+                                    <option>6:00 to 7:00pm</option>
+									<option>2:15 to 4:15pm</option>
+                                </select>
+							</label>
+
+
                             <label class="textarea" data-add-placeholder="">
                                 <textarea name="message" placeholder="Message"
-                                          data-constraints="@NotEmpty"></textarea>
+                                          data-constraints=""></textarea>
                             </label>
 
                             <div class="mfControls">
@@ -703,7 +725,6 @@
                             </div>
                         </fieldset>
                     </form>
-                    <!--End RD Mailform-->
                 </div>
                 <!--RD Google map-->
                 <div class="map">

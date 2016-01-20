@@ -51,7 +51,7 @@
 .contact-form .mailform label:first-child {
   margin-top: 0;
 }
-.contact-form .mailform label input, .contact-form .mailform label select, .contact-form .mailform label textarea {
+.contact-form .mailform label input, .contact-form .mailform label textarea {
   outline: none;
   background-color: transparent;
   border: none;

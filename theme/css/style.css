@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 @import url(animate.css);
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css);
 @import url(//fonts.googleapis.com/css?family=Roboto:400,300,500,700,900);
@@ -1436,3 +1436,4 @@ footer .copyright {
   margin-top: 27px;
   line-height: 30px;
 }
+

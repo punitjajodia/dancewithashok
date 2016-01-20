@@ -1642,3 +1642,30 @@ footer .copyright {
         margin-top: 100px;
     }
 }
+
+ .contact-form .mailform label select {
+    outline: none;
+  background-color: transparent;
+  border: none;
+  /*-webkit-appearance: none;*/
+  border-radius: 0;
+  vertical-align: baseline;
+  box-shadow: none;
+  display: block;
+  width: 100%;
+  margin: 0;
+  /*-webkit-appearance: none;*/
+  /*outline: none;*/
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  padding: 17.5px 0px;
+  line-height: 25px;
+  color: #18171b;
+  background: transparent;
+  border-bottom: 2px solid #000000;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  text-transform: uppercase;
+  font-weight: 700;
+ }

@@ -17,4 +17,3 @@ $(".about-salsa-header").click(function (e) {
     $("#popup").show();
 
 });
-
