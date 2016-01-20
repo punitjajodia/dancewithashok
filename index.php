@@ -316,25 +316,21 @@
                                 </time>
                                 <div class="post_caption_cnt">
                                     <div class="description-text"><a href="#">
-                                        <div class="row">
-    
-                                                5 weeks(Jan 28th-Feb 26th)
+                                     
+                                                                      <span><strong>5 weeks(Jan 28th-Feb 26th)</strong></span>
                      
-                                        </div>
+         
 
-                                        <div class="row">
   
-                                                Thursdays and Fridays<br />5:00 to 6:00pm <br/> 6:00 to 7:00pm 
+                                                                      <span>
+                                                                          Thursdays and Fridays<br />5:00 to 6:00pm, 6:00 to 7:00pm
 
-                                        </div>
+                                                                      </span>
 
-                                
-
-                                        <div class="row">
-  
-                                                Rs. 2500 per person
- 
-                                        </div>
+          
+                                                                      <span>
+                                                                          Rs. 2500 per person
+                                                                      </span>
                                   
                                 </div>
                             </div>
@@ -366,29 +362,24 @@
                                 <div class="post_caption_cnt">
                                     <div class="description-text">
                                         <a href="#">
-                                            <div class="row">
+                                            <span><strong>5 weeks (Feb 5-April 26)</strong></span>
 
 
-                                                    5 weeks (Feb 5-April 26)
+                                                    
 
-                                            </div>
+                                            <span>
 
-                                            <div class="row">
- 
- 
-                                                    Saturdays, 2 hours class<br />2:15 to 4:15pm
 
+                                                Saturdays, 2 hours class<br />2:15 to 4:15pm
+                                            </span>
                                        
-                                            </div>
-
-
-
-                                            <div class="row">
- 
           
-                                                    Rs. 2500 per person
-                      
-                                            </div>
+                                            <span>
+
+
+                                                Rs. 2500 per person
+
+                                            </span>
 
                                     </div>
                                 </div>
