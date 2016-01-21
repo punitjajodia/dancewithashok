@@ -1646,16 +1646,6 @@ footer .copyright {
    height: 650px;
 }
 
-.faq {
-    margin-top: 0!important;
-}
-
-@media (min-width:728px){
-    #our-studio img {
-        display: block;
-        margin-top: 100px;
-    }
-}
 
  .contact-form .mailform label select {
     outline: none;
@@ -1695,4 +1685,35 @@ footer .copyright {
  footer .brand {
      display: block;
      margin: 0 auto;
+ }
+
+ #intro {
+     margin-bottom: 50px;
+ }
+
+ #intro .faq {
+     margin-top: 10px;
+     display: block;
+ }
+
+ #intro .question {
+     text-align: center;
+     border-top-left-radius: 20px;
+     background: #111;
+     color: #D91D52;
+     text-transform: uppercase;
+     font-weight: 900;
+ }
+
+ #intro .answer {
+     background-color:#e0e0e0;
+     border-bottom-right-radius: 20px;
+     border-bottom-left-radius: 20px;
+     font-weight: 100;
+ }
+
+ #intro .answer ul {
+     list-style: disc;
+     margin-left: 30px;
+     padding-top: 10px;
  }

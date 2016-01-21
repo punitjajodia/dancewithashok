@@ -92,10 +92,11 @@
         <section class="bg-default-variant-1 cbp-so-section" id="about">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-5 inset-1 text-md-center cbp-so-side cbp-so-side-left">
-                        <h2 class="text-contrast">The Dance Floor</h2>
+                    <h2 class="text-contrast  inset-1">The Dance Floor</h2>
+                    
+                    <div class="col-lg-5 text-md-center cbp-so-side cbp-so-side-left">
+                        
                         <h6 class="text-secondary-1">“Dance out Loud." </h6>
-
                         <p class="text-contrast">The Dance Floor was founded in 2013 and since then it has firmly established itself as a leader in the Salsa scene in Nepal. <br/><br/>It aims to promote Salsa and Latin dances as an education, source of entertainment, hobby, profession and a culture.<br/><br/>Currently it offers Salsa classes for beginners, improvers and advanced students at venues in Durbar Marg and Jhamshikhel.<br/><br/>Everyone is welcome to join us in experiencing the pleasure of dancing!
 
 </p>
@@ -111,8 +112,50 @@
                         </p>
                     </div>
                 </div>
+                <div class="row cbp-so-side cbp-so-side-left" id="intro">
+                    <div class="faq col-md-12">
+                        <div class="question">
+                            What is Salsa?
+                        </div>
+                        <div class="answer">
+                            <p>Salsa is a couple/partner dance which is danced based on  the rule of lead- follow. The leader, (on most occasions  the male  partner) takes the responsibility to think which steps to do and tries to convey it to the follower (on most occasions the female partner) through subtle movement and signals.</p><p>Except in performances and shows, it is spontaneous and  each couples may do different moves on the same beat or music.</p><p>Salsa originated basically from Latin American countries like Cuba, Puerto Rico, Colombia etc. However the places like New York and Los Angeles have also contributed a lot in bringing salsa to the current state. It is normally danced on Latin songs which are in Spanish.</p>
+                        </div>
+                    </div>
+                    <div class="faq col-md-12">
+                        <div class="question">
+                            What is the scope of Salsa dance in Nepal?
+                        </div>
+                        <div class="answer">
+                            <p>Salsa was introduced in Nepal one and a half decades ago and now it has developed as a hobby and a profession.</p><p>Currently, people have shown great interest towards this dance form by showing up in salsa social parties, workshops and festivals organized by different dance schools.</p><p>The salsa circle has enabled people to break free, to make friends, interact, socialize and come together for an aspirating activity. They dance out loud and influence others to start too.</p><p>College students and other professionals travelling abroad also find it handy as it helps them to mingle with various social circles and make friends.</p><p>I repeatedly hear from my students that because of their salsa circle they are able to find jobs and make professional contacts in Nepal and abroad. Besides, passionate dancers have taken this activity professionally and  the culture of travelling within the country and abroad for salsa parties,  performances and trainings have also begun.</p>
+                        </div>
+                    </div>
+                    <div class="faq col-md-12">
+                        <div class="question">
+                            Why we suggest people to start dancing Salsa?
+                        </div>
+                        <div class="answer">
+                            <p>We always admire others dancing but don’t dare to dance because we are too shy or concerned what others would say. Besides, we don’t want to do something we are not good at.</p>
+                            <p>
+                                SALSA will boost up one's confidence to step on the dance floor and overcome the fear of dancing. It builds self-confidence, discipline and concentration. </p>
+                            <p>Salsa is a great hobby that also makes people social and outgoing. It gives you freedom to move, to dream with your feet, to feel and to inspire others to
+                            </p>
+                            <ul>
+                                <li>To overcomethe fear of dancing.</li>
+                                <li>
+                                    To learn the art of dancing as a couple i.e the technique to lead and follow your partner.
+                                </li>
+                                <li>To motivate people to take dancing as a fun hobby and regular activity.</li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </section>
+
+    
+
 
         <!--<section class ="bg-default-variant-1 cbp-so-section" id="about-salsa">
             <div class="container">
@@ -187,7 +230,7 @@
             </div>
         </section>
 
-        <section class="well" id="classes">
+        <section class="well bg-default-variant-1" id="classes">
             <div class="container text-xs-center">
                 <h2 class="text-contrast text-md-center">WHAT WE OFFER</h2>
 
@@ -196,41 +239,41 @@
                         <!--product-->
                         <div class="product">
                             <div class="product_caption">
-                                <h5 class="text-primary">Regular <br/>Salsa Classes </h5>
-                               
+                                <h5 class="text-primary">Regular <br />Salsa Classes </h5>
 
-                                <hr/>
+
+                                <hr />
                                 <h6>Weekdays</h6>
-                               
-                                    Morning Classes<br />
-                                    7:30 to 8:30am<br />
-                                    8:30 to 9:30am
-                                    <br />
-                                    <br/>
 
-                                    Evening Classes<br/>
-                                    4:00 to 8:00pm <br/>(Daily 4 batches)<br />
-                                    <br/>
-                               
-                                <hr/>
+                                Morning Classes<br />
+                                7:30 to 8:30am<br />
+                                8:30 to 9:30am
+                                <br />
+                                <br />
+
+                                Evening Classes<br />
+                                4:00 to 8:00pm <br />(Daily 4 batches)<br />
+                                <br />
+
+                                <hr />
                                 <h6>Weekends</h6>
-                                
-                                    Two hours only on Saturdays<br/>
-                                    10:00 to 12:00 noon<br/>
-                                    12:00 to 2:00pm<br/>
-                                    2:00 to 4:00pm<br/>
-                         
+
+                                Two hours only on Saturdays<br />
+                                10:00 to 12:00 noon<br />
+                                12:00 to 2:00pm<br />
+                                2:00 to 4:00pm<br />
+
                                 <h6>For Pricing</h6>
                                 <a href="" id="pricing">Click here</a>
                             </div>
                             <!--<div class="product_img">
-                                <a class="thumb" href="images/ashok/test.pdf" data-gallery="2">
-                                    <img src="images/ashok/page-1_img04.jpg" alt="" />
-                                    <span class="thumb_overlay">
-                                        <span class="insider"></span>
-                                    </span>
-                                </a>
-                            </div>-->
+                            <a class="thumb" href="images/ashok/test.pdf" data-gallery="2">
+                                <img src="images/ashok/page-1_img04.jpg" alt="" />
+                                <span class="thumb_overlay">
+                                    <span class="insider"></span>
+                                </span>
+                            </a>
+                        </div>-->
                         </div>
                         <!--end product-->
                     </div>
@@ -238,16 +281,16 @@
                         <!--product-->
                         <div class="product">
                             <!--<div class="product_img">
-                                <a class="thumb" href="images/ashok/page-1_img05_original.jpg" data-gallery="2">
-                                    <img src="images/ashok/page-1_img05.jpg" alt="" />
-                                    <span class="thumb_overlay">
-                                        <span class="insider"></span>
-                                    </span>
-                                </a>
-                            </div>-->
+                            <a class="thumb" href="images/ashok/page-1_img05_original.jpg" data-gallery="2">
+                                <img src="images/ashok/page-1_img05.jpg" alt="" />
+                                <span class="thumb_overlay">
+                                    <span class="insider"></span>
+                                </span>
+                            </a>
+                        </div>-->
                             <div class="product_caption">
-                                
-                                <h5 class="text-primary">Other<br/>Latin Dance Forms</h5>
+
+                                <h5 class="text-primary">Other<br />Latin Dance Forms</h5>
                                 <hr />
                                 <h6>BACHATA CLASSES</h6>
 
@@ -256,11 +299,11 @@
 
                                 <h6>CHA-CHA CLASSES</h6>
                                 <p>
-                                    Latin dance forms like Bachata, Merengue and Cha-Cha are also taught as 
+                                    Latin dance forms like Bachata, Merengue and Cha-Cha are also taught as
                                     a part of syllabus for free when you sign up for three or more months.
                                 </p>
                                 <p>
-                                    Besides, we have special workshops with international guest instructors 
+                                    Besides, we have special workshops with international guest instructors
                                     now and then to upgrade your techniques.
                                 </p>
 
@@ -273,50 +316,50 @@
                         <div class="product">
                             <div class="product_caption" id="private-corporate">
                                 <h5 class="text-primary">
-                                    Private &amp;<br/>
-                                    Corporate Sessions  
+                                    Private &amp;<br />
+                                    Corporate Sessions
                                 </h5>
                                 <hr />
                                 <h6>INDIVIDUALS AND COUPLES</h6>
                                 <span>
-                                    <br/>
+                                    <br />
                                     Personalized training sessions for those who cannot attend regular classes or want to learn faster
                                 </span>
-                                    
-                               
 
-                                
+
+
+
                                 <!--<p>Private classes for individuals and couples who cannot attend regular classes or want to learn faster with personalized focus on their strengths and weaknesses are also available.</p>-->
 
-                                <hr/>
+                                <hr />
                                 <h6>CORPORATE WORKSHOPS</h6>
-                                    
-                                    <br/>   One-day workshops for corporates and institutions during their retreats and team-building activities.
-                                
+
+                                <br />   One-day workshops for corporates and institutions during their retreats and team-building activities.
+
                                 <hr />
                                 <h6>SALSA AS AN ECA</h6>
                                 <br />
-                                    Salsa classes as a part of dance curriculum, ECA or after-school activities in colleges and schools.
-                                
-                                
+                                Salsa classes as a part of dance curriculum, ECA or after-school activities in colleges and schools.
+
+
                             </div>
                             <!--<div class="product_img">
-                                <a class="thumb" href="images/ashok/page-1_img06_original.jpg" data-gallery="2">
-                                    <img src="images/ashok/page-1_img06.jpg" alt="" />
-                                    <span class="thumb_overlay">
-                                        <span class="insider"></span>
-                                    </span>
-                                </a>
-                            </div>-->
+                            <a class="thumb" href="images/ashok/page-1_img06_original.jpg" data-gallery="2">
+                                <img src="images/ashok/page-1_img06.jpg" alt="" />
+                                <span class="thumb_overlay">
+                                    <span class="insider"></span>
+                                </span>
+                            </a>
+                        </div>-->
                         </div>
                         <!--end product-->
                     </div>
                 </div>
-       
+
         </section>
 
 
-	        <section class="well well--inset-1 bg-default-variant-1 text-xs-center cbp-so-section" id="beginners">
+	        <section class="well well--inset-1 text-xs-center cbp-so-section" id="beginners">
             <div class="container">
                 <h2 class="text-contrast cbp-so-side cbp-so-side-left text-md-center">For Beginners</h2>
 
@@ -404,7 +447,7 @@
                 </div>
         </section>
 
-        <section class="well well--inset-1 text-xs-center cbp-so-section" id="faqs">
+        <section class="well well--inset-1 bg-default-variant-1 text-xs-center cbp-so-section" id="faqs">
             <div class="container">
                 <h2 class="text-contrast cbp-so-side cbp-so-side-left text-md-center">FAQs</h2>
                 <div class="row cbp-so-side cbp-so-side-left">
@@ -583,10 +626,10 @@
                     </div>
 
                 </div>
-                
-</section>
+            </div>
+        </section>
 
-        <section class="well well--inset-1 bg-default-variant-1 text-xs-center cbp-so-section" id="events">
+        <section class="well well--inset-1 text-xs-center cbp-so-section" id="events">
             <div class="container">
                 <h2 class="text-contrast cbp-so-side cbp-so-side-left text-md-center">OUR EVENTS</h2>
 
@@ -604,7 +647,7 @@
                             </div>
                             <div class="post_caption">
                                 <time datetime="2016-01-25"><!--<span class="day">PRACTICE SESSIONS</span><span class="month">JUL</span>-->
-                                    <span class="day">SAT</span><span class="month">5-6PM</span>
+                                    <span class="day">SAT</span><span class="month">5-6:30PM</span>
                                 </time>
                                 <div class="post_caption_cnt">
                                     <h5>WEEKLY PRACTICE SESSIONS</h5>
