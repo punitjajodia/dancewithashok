@@ -381,7 +381,7 @@
                                 <time datetime="2016-01-25"> <span class="month">JAN </span><span class="day">28</span>
                                 </time>
                                 <div class="post_caption_cnt">
-                                    <div class="description-text"><a href="#">
+                                    <div class="description-text">
                                      
                                                                       <span>5 weeks(Jan 28-Feb 26)</span>
                     
@@ -392,7 +392,7 @@
 
           
                                                                       <span>
-                                                                          Rs. 2500 per person
+                                                                          Rs. 2500 per person <a href="#registration">Register</a>
                                                                       </span>
                                   
                                 </div>
@@ -420,7 +420,7 @@
                                 <time datetime="2016-01-25"> <span class="month">FEB </span><span class="day">13</span>
                                 </time>
                                 <div class="post_caption_cnt">
-                                    <div class="description-text"><a href="#">
+                                    <div class="description-text">
                                      
                                                                       <span>5 weeks (Feb 13-March 12)</span>
                     
@@ -431,7 +431,7 @@
 
           
                                                                       <span>
-                                                                          Rs. 2500 per person
+                                                                          Rs. 2500 per person<a href="#registration">Register</a>
                                                                       </span>
                                   
                                 </div>

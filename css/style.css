@@ -1491,6 +1491,11 @@ footer .copyright {
     font-weight: bold;
 }
 
+.post_caption_cnt .description-text a {
+    color:#D91D52;
+    padding-left: 30px;
+}
+
 #faqs h2 {
     text-transform: none;
 }
