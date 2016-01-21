@@ -1503,7 +1503,6 @@ footer .copyright {
 #ashok {
     color:white;
     margin: 20px 0;
-    padding:20px 0;
 }
 
 /*#ashok h2 {
@@ -1721,4 +1720,8 @@ footer .copyright {
      list-style: disc;
      margin-left: 30px;
      padding-top: 10px;
+ }
+
+ .product_caption {
+     min-width: 300px;
  }

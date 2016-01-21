@@ -78,7 +78,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-7 col-sm-9 cbp-so-side cbp-so-side-left text-xs-center">
                         <h3 class="text-contrast">Salsa is a trendy hobby and a great way to relax and make new friends!! </h3>
-                        <a  href="#contacts" class="btn btn-md btn-primary">register</a>
+                        <a  href="#intro" class="btn btn-md btn-primary">Learn more</a>
                     </div>
                 </div>
             </div>
@@ -89,22 +89,23 @@
                               CONTENT
     =========================================================-->
     <main>
-        <section class="bg-default-variant-1 cbp-so-section" id="about">
+        <section class="cbp-so-section text-xs-center" id="about">
             <div class="container">
                 <div class="row">
-                    <h2 class="text-contrast  inset-1">The Dance Floor</h2>
+                   
+                    <h2 class="text-contrast text-xs-center inset-1">The Dance Floor</h2>
                     
                     <div class="col-lg-5 text-md-center cbp-so-side cbp-so-side-left">
-                        
                         <h6 class="text-secondary-1">“Dance out Loud." </h6>
-                        <p class="text-contrast">The Dance Floor was founded in 2013 and since then it has firmly established itself as a leader in the Salsa scene in Nepal. <br/><br/>It aims to promote Salsa and Latin dances as an education, source of entertainment, hobby, profession and a culture.<br/><br/>Currently it offers Salsa classes for beginners, improvers and advanced students at venues in Durbar Marg and Jhamshikhel.<br/><br/>Everyone is welcome to join us in experiencing the pleasure of dancing!
+                        <p class="text-contrast">
+                            The Dance Floor was founded in 2013 and since then it has firmly established itself as a leader in the Salsa scene in Nepal. <br /><br />It aims to promote Salsa and Latin dances as an education, source of entertainment, hobby, profession and a culture.<br /><br />Currently it offers Salsa classes for beginners, improvers and advanced students at venues in Durbar Marg and Jhamshikhel.<br /><br />Everyone is welcome to join us in experiencing the pleasure of dancing!
 
-</p>
+                        </p>
                     </div>
                     <div class="col-lg-7 inset-1 cbp-so-side cbp-so-side-right" id="our-studio">
                         <!--<h2>VENUE</h2>-->
-                       <img class="img-responsive" src="images/ashok/studio-outside.jpg" />
-                       
+                        <img class="img-responsive" src="images/ashok/studio-outside.jpg" />
+
                         <p>
                             Next to Swimming Pool<br />
                             Woodland Hotel<br />
@@ -136,8 +137,10 @@
                         <div class="answer">
                             <p>We always admire others dancing but don’t dare to dance because we are too shy or concerned what others would say. Besides, we don’t want to do something we are not good at.</p>
                             <p>
-                                SALSA will boost up one's confidence to step on the dance floor and overcome the fear of dancing. It builds self-confidence, discipline and concentration. </p>
-                            <p>Salsa is a great hobby that also makes people social and outgoing. It gives you freedom to move, to dream with your feet, to feel and to inspire others to
+                                SALSA will boost up one's confidence to step on the dance floor and overcome the fear of dancing. It builds self-confidence, discipline and concentration.
+                            </p>
+                            <p>
+                                Salsa is a great hobby that also makes people social and outgoing. It gives you freedom to move, to dream with your feet, to feel and to inspire others to
                             </p>
                             <ul>
                                 <li>To overcomethe fear of dancing.</li>
@@ -203,7 +206,7 @@
         </section>-->
 
 
-        <section class="well well--inset-1 cbp-so-section" id="ashok">
+        <section class="bg-default-variant-1 well well--inset-1 cbp-so-section" id="ashok">
             <div class="container">
                 <h2 class="text-contrast text-md-center cbp-so-side cbp-so-side-left">INSTRUCTOR'S PROFILE</h2>
 
@@ -230,7 +233,7 @@
             </div>
         </section>
 
-        <section class="well bg-default-variant-1" id="classes">
+        <section class="well" id="classes">
             <div class="container text-xs-center">
                 <h2 class="text-contrast text-md-center">WHAT WE OFFER</h2>
 
@@ -359,17 +362,17 @@
         </section>
 
 
-	        <section class="well well--inset-1 text-xs-center cbp-so-section" id="beginners">
+        <section class="bg-default-variant-1 well well--inset-1 text-xs-center cbp-so-section" id="beginners">
             <div class="container">
                 <h2 class="text-contrast cbp-so-side cbp-so-side-left text-md-center">For Beginners</h2>
 
                 <div class="row">
-                 
-		            <div class="col-md-6 col-sm-6 col-xs-12 cbp-so-side cbp-so-side-left">
+
+                    <div class="col-md-6 col-sm-6 col-xs-12 cbp-so-side cbp-so-side-left">
                         <!--post-->
                         <div class="post">
                             <div class="post_img">
-                   
+
                                 <a class="thumb" href="images/ashok/beginner-class.png" data-gallery="3">
                                     <img src="images/ashok/beginner-class.png" alt="" />
                                     <span class="thumb_overlay">
@@ -378,37 +381,38 @@
                                 </a>
                             </div>
                             <div class="post_caption">
-                                <time datetime="2016-01-25"> <span class="month">JAN </span><span class="day">28</span>
+                                <time datetime="2016-01-25">
+                                    <span class="month">JAN </span><span class="day">28</span>
                                 </time>
                                 <div class="post_caption_cnt">
                                     <div class="description-text">
-                                     
-                                                                      <span>5 weeks(Jan 28-Feb 26)</span>
-                    
-                                                                      <span>
-                                                                          Thursdays and Fridays<br />5:00 to 6:00pm, 6:00 to 7:00pm
 
-                                                                      </span>
+                                        <span>5 weeks(Jan 28-Feb 26)</span>
 
-          
-                                                                      <span>
-                                                                          Rs. 2500 per person <a href="#registration">Register</a>
-                                                                      </span>
-                                  
+                                        <span>
+                                            Thursdays and Fridays<br />5:00 to 6:00pm, 6:00 to 7:00pm
+
+                                        </span>
+
+
+                                        <span>
+                                            Rs. 2500 per person <a href="#registration">Register</a>
+                                        </span>
+
+                                    </div>
                                 </div>
                             </div>
+                            <!--end post-->
                         </div>
-                        <!--end post-->
-                    </div>			
 
-             
-            </div>
 
-                     <div class="col-md-6 col-sm-6 col-xs-12 cbp-so-side cbp-so-side-left">
+                    </div>
+
+                    <div class="col-md-6 col-sm-6 col-xs-12 cbp-so-side cbp-so-side-left">
                         <!--post-->
                         <div class="post">
                             <div class="post_img">
-                   
+
                                 <a class="thumb" href="images/ashok/bachata-class.png" data-gallery="3">
                                     <img src="images/ashok/bachata-class.png" alt="" />
                                     <span class="thumb_overlay">
@@ -417,37 +421,38 @@
                                 </a>
                             </div>
                             <div class="post_caption">
-                                <time datetime="2016-01-25"> <span class="month">FEB </span><span class="day">13</span>
+                                <time datetime="2016-01-25">
+                                    <span class="month">FEB </span><span class="day">13</span>
                                 </time>
                                 <div class="post_caption_cnt">
                                     <div class="description-text">
-                                     
-                                                                      <span>5 weeks (Feb 13-March 12)</span>
-                    
-                                                                      <span>
-                                                                          Saturdays, 2 hours class<br />2:15 to 4:15pm
 
-                                                                      </span>
+                                        <span>5 weeks (Feb 13-March 12)</span>
 
-          
-                                                                      <span>
-                                                                          Rs. 2500 per person<a href="#registration">Register</a>
-                                                                      </span>
-                                  
+                                        <span>
+                                            Saturdays, 2 hours class<br />2:15 to 4:15pm
+
+                                        </span>
+
+
+                                        <span>
+                                            Rs. 2500 per person<a href="#registration">Register</a>
+                                        </span>
+
+                                    </div>
                                 </div>
                             </div>
+                            <!--end post-->
                         </div>
-                        <!--end post-->
-                    </div>			
 
-             
-            </div>
-                    
+
                     </div>
+
                 </div>
+            </div>
         </section>
 
-        <section class="well well--inset-1 bg-default-variant-1 text-xs-center cbp-so-section" id="faqs">
+        <section class="well well--inset-1 text-xs-center cbp-so-section" id="faqs">
             <div class="container">
                 <h2 class="text-contrast cbp-so-side cbp-so-side-left text-md-center">FAQs</h2>
                 <div class="row cbp-so-side cbp-so-side-left">
@@ -560,7 +565,7 @@
                                 It won’t be fair to teach a student who have comepleted 3months and the other who is attending his/her first ever salsa class together. So, levels are just differentiated to keep the standard syllabus and teach in a systematic manner.
                             </p>
                             <p>
-                                Besides, each dance schools has its own syllabus and way of naming a level. Only thing that really counts is how many hour you have spent on the dancefloor learning and more importantly practicing. People who have danced for six months in some cases dance better than people dancing from 2 years.
+                                Besides, each dance schools has its own syllabus and way of naming a level. Only thing that really counts is how many hour you have spent on the dance floor learning and more importantly practicing. People who have danced for six months in some cases dance better than people dancing from 2 years.
                             </p>
                             <p>
                                 At our studio, we classify the levels as:<br />
@@ -629,7 +634,7 @@
             </div>
         </section>
 
-        <section class="well well--inset-1 text-xs-center cbp-so-section" id="events">
+        <section class="well well--inset-1 bg-default-variant-1 text-xs-center cbp-so-section" id="events">
             <div class="container">
                 <h2 class="text-contrast cbp-so-side cbp-so-side-left text-md-center">OUR EVENTS</h2>
 
@@ -646,7 +651,8 @@
                                 </a>
                             </div>
                             <div class="post_caption">
-                                <time datetime="2016-01-25"><!--<span class="day">PRACTICE SESSIONS</span><span class="month">JUL</span>-->
+                                <time datetime="2016-01-25">
+                                    <!--<span class="day">PRACTICE SESSIONS</span><span class="month">JUL</span>-->
                                     <span class="day">SAT</span><span class="month">5-6:30PM</span>
                                 </time>
                                 <div class="post_caption_cnt">
@@ -657,7 +663,7 @@
                         </div>
                         <!--end post-->
                     </div>
-		    <div class="col-md-6 col-sm-6 col-xs-12 cbp-so-side cbp-so-side-left">
+                    <div class="col-md-6 col-sm-6 col-xs-12 cbp-so-side cbp-so-side-left">
                         <!--post-->
                         <div class="post">
                             <div class="post_img">
@@ -669,7 +675,8 @@
                                 </a>
                             </div>
                             <div class="post_caption">
-                                <time datetime="2016-01-25"><span class="day">TBD</span>
+                                <time datetime="2016-01-25">
+                                    <span class="day">TBD</span>
                                 </time>
                                 <div class="post_caption_cnt">
                                     <h5>BACHATA WORKSHOP</h5>
@@ -684,7 +691,7 @@
         </section>
 
 
-        <section class="bg-default-variant-1 cbp-so-section" id="registration">
+        <section class="cbp-so-section" id="registration">
             <div class="container">
                 <div class="contact-form inset-2 pull-left pull-md-none cbp-so-side cbp-so-side-left">
                     <h3 class="text-contrast">Online Registration</h3>
@@ -770,11 +777,21 @@
                     <h4 class="text-secondary-1">Menu</h4>
                     <!--list-->
                     <ul class="list footer-menu">
-                        <li><a href="#home">HOME</a></li>
-                        <li><a href="#about">ABOUT US</a></li>
-                        <li><a href="#classes">classes</a></li>
-                        <li><a href="#events">events</a></li>
-                        <li><a href="#contacts">CONTACTS</a></li>
+                        <li>
+                            <a href="#home">Home</a>
+                        </li>
+                        <li>
+                            <a href="#about">About Us</a>
+                        </li>
+                        <li>
+                            <a href="#classes">What we offer</a>
+                        </li>
+                        <li>
+                            <a href="#beginners">for beginners </a>
+                        </li>
+                        <li>
+                            <a href="#contacts">Contacts</a>
+                        </li>
                     </ul>
                     <!--end list-->
                 </div>
@@ -812,7 +829,7 @@
                     </div>
                     <!--End Brand-->
                     <div class="copyright cbp-so-side cbp-so-side-left text-secondary-1 uppercase">
-                        The DanceFloor © <span id="copyright-year"></span> <br> • All rights reserved
+                        The Dance Floor © <span id="copyright-year"></span> <br> • All rights reserved
                         <!-- {%FOOTER_LINK} -->
                     </div>
                 </div>
