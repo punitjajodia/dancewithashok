@@ -45,7 +45,7 @@ h2, .heading-2 {
 }
 @media (max-width: 479px) {
   h2, .heading-2 {
-    font-size: 45px;
+    font-size: 43px;
     line-height: 1;
   }
 }
@@ -1488,6 +1488,7 @@ footer .copyright {
     font-size: 18px;
     display: block;
     margin-top: 10px;
+    font-weight: bold;
 }
 
 #faqs h2 {
@@ -1500,13 +1501,17 @@ footer .copyright {
     padding:20px 0;
 }
 
+/*#ashok h2 {
+    font-size: 60px;
+}*/
+
 .ashok-pic-wrapper {
     text-align:center;
 }
 
 .ashok-pic-wrapper img {
     margin-bottom: 20px;
-    width: 40%;
+    max-width: 200px;
 }
 
 #instructor-description {
@@ -1515,6 +1520,15 @@ footer .copyright {
     padding-top: 10px;
     text-align: justify;
     
+}
+
+@media (max-width: 720px) {
+  #instructor-description {
+    border-left: none!important;
+    border-top: none!important;
+    text-align: left;
+    }
+
 }
 
 @media screen and (min-width: 700px) {
@@ -1668,4 +1682,17 @@ footer .copyright {
   border-radius: 0px;
   text-transform: uppercase;
   font-weight: 700;
+ }
+
+ #pricing {
+       display: block;
+       font-weight: bold;
+       text-decoration: underline;
+       margin-top: 10px;
+       color: #D91D52;
+ }
+
+ footer .brand {
+     display: block;
+     margin: 0 auto;
  }

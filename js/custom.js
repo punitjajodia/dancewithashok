@@ -17,3 +17,11 @@ $(".about-salsa-header").click(function (e) {
     $("#popup").show();
 
 });
+
+$("#pricing").click(function (e) {
+    e.preventDefault();
+    $('html, body').animate({
+        scrollTop: $("#pricing-answer").offset().top
+    }, 1000);
+    $("#pricing-answer").siblings(".answer").slideDown("fast");
+})

@@ -43,7 +43,7 @@
                     <!--Brand-->
                     <div class="brand">
                         <h1 class="brand_name">
-                            <a href="./"><img src="images/ashok/logo.jpg" alt=""></a>
+                            <a href="./"><img src="images/ashok/center-logo.jpg" alt=""></a>
                         </h1>
                     </div>
                     <!--End Brand-->
@@ -101,7 +101,7 @@
 </p>
                     </div>
                     <div class="col-lg-7 inset-1 cbp-so-side cbp-so-side-right" id="our-studio">
-                        <h2>VENUE</h2>
+                        <!--<h2>VENUE</h2>-->
                        <img class="img-responsive" src="images/ashok/studio-outside.jpg" />
                        
                         <p>
@@ -159,7 +159,33 @@
             </div>
         </section>-->
 
-      
+
+        <section class="well well--inset-1 cbp-so-section" id="ashok">
+            <div class="container">
+                <h2 class="text-contrast text-md-center cbp-so-side cbp-so-side-left">INSTRUCTOR'S PROFILE</h2>
+
+                <div class="row">
+                    <div class="col-md-3 ashok-pic-wrapper cbp-so-side cbp-so-side-left">
+                        <img class="round" src="images/ashok/ashok.jpg" />
+                        <h3>ASHOK BHANDARI</h3>
+                        <p>Self Employed as Founder / Latin Dances Instructor @The Dance Floor<p>
+                    </div>
+                    <div class="col-md-9 cbp-so-side cbp-so-side-right" id="instructor-description">
+                        <p>Mr. Ashok Bhandari, started salsa as a hobby in 2007. And sooner the hobby turned into passion. He started teaching salsa in 2009 and then there was no turning back. He has travelled to Thailand Europe and India on numerous occasions attending salsa festivals and congresses and training from world renowned instructors and performers.</p>
+                        <p>
+                            Mr. Bhandari has also performed in Salsa Vacation with the stars (Bangkok 2009), 6th India Salsa Festival (Bangalore 2011) and in Nepal’s 1st and 2nd salsa festival in 2010 and 2011. In Nepal, he has performed for national TV shows and many corporate events.
+                        </p>
+                        <p>Mr. Bhandari has also co-taught Salsa workshops in Chennai International Salsa festival and in La Casita , Pondichery with his mentor and partner Ms. Katia Verrault in 2014. Recently, he also taught few workshops in Kabul during his visit to Afghanistan. Apart from teach at his own studio, he has also taught in many institutions like Alliance Francaise, Alta Vista, Lincoln School, Ullens, KCM, NATHOM, ACE and in many corporate retreats and team building activities.</p>
+                        <p>
+                            Some know him as a mathematics and statistics teacher for undergraduates and an accountant/ tax consultant freelancer. However he is best known as one of the most prominent figure in Nepalese Salsa community.
+                        </p>
+                        <p>
+                            He is thankful to the almighty for being able to touch thousands of peoples’ life through salsa.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         <section class="well" id="classes">
             <div class="container text-xs-center">
@@ -193,10 +219,9 @@
                                     10:00 to 12:00 noon<br/>
                                     12:00 to 2:00pm<br/>
                                     2:00 to 4:00pm<br/>
-                                    <br /><br />
-                                    
-                                    Level Timings: 1 Month = 1 level = 8 Class Hours
-                                
+                         
+                                <h6>For Pricing</h6>
+                                <a href="" id="pricing">Click here</a>
                             </div>
                             <!--<div class="product_img">
                                 <a class="thumb" href="images/ashok/test.pdf" data-gallery="2">
@@ -227,9 +252,9 @@
                                 <h6>BACHATA CLASSES</h6>
 
 
-                                <h6>MERENGUE</h6>
+                                <h6>MERENGUE CLASSES</h6>
 
-                                <h6>CHA-CHA ON2</h6>
+                                <h6>CHA-CHA CLASSES</h6>
                                 <p>
                                     Latin dance forms like Bachata, Merengue and Cha-Cha are also taught as 
                                     a part of syllabus for free when you sign up for three or more months.
@@ -301,9 +326,7 @@
                         <!--post-->
                         <div class="post">
                             <div class="post_img">
-                                <div class="strip">
-                                    EVENING CLASSES
-                                </div>
+                   
                                 <a class="thumb" href="images/ashok/beginner-class.png" data-gallery="3">
                                     <img src="images/ashok/beginner-class.png" alt="" />
                                     <span class="thumb_overlay">
@@ -317,11 +340,8 @@
                                 <div class="post_caption_cnt">
                                     <div class="description-text"><a href="#">
                                      
-                                                                      <span><strong>5 weeks(Jan 28th-Feb 26th)</strong></span>
-                     
-         
-
-  
+                                                                      <span>5 weeks(Jan 28-Feb 26)</span>
+                    
                                                                       <span>
                                                                           Thursdays and Fridays<br />5:00 to 6:00pm, 6:00 to 7:00pm
 
@@ -340,55 +360,46 @@
 
              
             </div>
-                    <div class="col-md-6 col-sm-6 col-xs-12 cbp-so-side cbp-so-side-left">
+
+                     <div class="col-md-6 col-sm-6 col-xs-12 cbp-so-side cbp-so-side-left">
                         <!--post-->
                         <div class="post">
                             <div class="post_img">
-                                <div class="strip">
-                                    WEEKEND CLASSES
-                                </div>
+                   
                                 <a class="thumb" href="images/ashok/bachata-class.png" data-gallery="3">
                                     <img src="images/ashok/bachata-class.png" alt="" />
-
                                     <span class="thumb_overlay">
                                         <span class="insider"></span>
                                     </span>
                                 </a>
                             </div>
                             <div class="post_caption">
-                                <time datetime="2016-01-25">
-                                    <span class="month">FEB</span><span class="day">5</span>
+                                <time datetime="2016-01-25"> <span class="month">FEB </span><span class="day">13</span>
                                 </time>
                                 <div class="post_caption_cnt">
-                                    <div class="description-text">
-                                        <a href="#">
-                                            <span><strong>5 weeks (Feb 5-April 26)</strong></span>
+                                    <div class="description-text"><a href="#">
+                                     
+                                                                      <span>5 weeks (Feb 13-March 12)</span>
+                    
+                                                                      <span>
+                                                                          Saturdays, 2 hours class<br />2:15 to 4:15pm
 
+                                                                      </span>
 
-                                                    
-
-                                            <span>
-
-
-                                                Saturdays, 2 hours class<br />2:15 to 4:15pm
-                                            </span>
-                                       
           
-                                            <span>
-
-
-                                                Rs. 2500 per person
-
-                                            </span>
-
-                                    </div>
+                                                                      <span>
+                                                                          Rs. 2500 per person
+                                                                      </span>
+                                  
                                 </div>
                             </div>
-                            <!--end post-->
                         </div>
+                        <!--end post-->
+                    </div>			
 
-
-                    </div>
+             
+            </div>
+                    
                     </div>
                 </div>
         </section>
@@ -519,7 +530,7 @@
                         </div>
                     </div>
                     <div class="faq col-md-12">
-                        <div class="question">
+                        <div class="question" id="pricing-answer">
                             10. What are the charges and how can I pay?
                         </div>
                         <div class="answer">
@@ -629,44 +640,13 @@
             </div>
         </section>
 
-        <section class="well well--inset-1 cbp-so-section">
-            <div class="container">
-                <h2 class="text-contrast text-md-center cbp-so-side cbp-so-side-left">INSTRUCTOR'S PROFILE</h2>
 
-                <div class="row" id="ashok">
-                    <div class="col-md-3 ashok-pic-wrapper cbp-so-side cbp-so-side-left">
-                        <img class="round" src="images/ashok/ashok.jpg" />
-                        <h3>ASHOK BHANDARI</h3>
-                        <p>Self Employed as Founder / Latin Dances Instructor @The Dance Floor<p>
-                    </div>
-                    <div class="col-md-9 cbp-so-side cbp-so-side-right" id="instructor-description">
-                        <p>Mr. Ashok Bhandari, started salsa as a hobby in 2007. And sooner the hobby turned into passion. He started teaching salsa in 2009 and then there was no turning back. He has travelled to Thailand Europe and India on numerous occasions attending salsa festivals and congresses and training from world renowned instructors and performers.</p>
-                        <p>
-                            Mr. Bhandari has also performed in Salsa Vacation with the stars (Bangkok 2009), 6th India Salsa Festival (Bangalore 2011) and in Nepal’s 1st and 2nd salsa festival in 2010 and 2011. In Nepal, he has performed for national TV shows and many corporate events.
-                        </p>
-                        <p>Mr. Bhandari has also co-taught Salsa workshops in Chennai International Salsa festival and in La Casita , Pondichery with his mentor and partner Ms. Katia Verrault in 2014. Recently, he also taught few workshops in Kabul during his visit to Afghanistan. Apart from teach at his own studio, he has also taught in many institutions like Alliance Francaise, Alta Vista, Lincoln School, Ullens, KCM, NATHOM, ACE and in many corporate retreats and team building activities.</p>
-                        <p>
-                            Some know him as a mathematics and statistics teacher for undergraduates and an accountant/ tax consultant freelancer. However he is best known as one of the most prominent figure in Nepalese Salsa community.
-                        </p>
-                        <p>
-                            He is thankful to the almighty for being able to touch thousands of peoples’ life through salsa.
-                        </p>
-                    </div>
-                </div>
-
-
-            </div>
-        </section>
-
-      
-
-        <section class="bg-default-variant-1 cbp-so-section" id="contacts">
+        <section class="bg-default-variant-1 cbp-so-section" id="registration">
             <div class="container">
                 <div class="contact-form inset-2 pull-left pull-md-none cbp-so-side cbp-so-side-left">
                     <h3 class="text-contrast">Online Registration</h3>
 
-                    <p class="text-secondary-1">For further information on classes, please fill in <br> the contact form
-                        below:</p>
+                    <p class="text-secondary-1">For online registratoin, please fill in the form below:</p>
                      <!--RD Mailform-->
                      <!--RD Mailform-->
                     <form class='mailform' method="post" action="bat/rd-mailform.php">
@@ -700,6 +680,7 @@
 
 							<label class="select" data-add-placeholder="Hello">
                                 <select name="Batch">
+                                    <option>Select a batch</option>
                                     <option>Jan 28 Batch</option>
                                     <option>Feb 5 Batch</option>
                                 </select>
@@ -707,6 +688,7 @@
 
 							<label class="select mfSelect" data-add-placeholder="Hello">
                                 <select name="Timings">
+                                    <option>Select a timing</option>
                                     <option>5:00 to 6:00pm</option>
                                     <option>6:00 to 7:00pm</option>
 									<option>2:15 to 4:15pm</option>
@@ -715,7 +697,7 @@
 
 
                             <label class="textarea" data-add-placeholder="">
-                                <textarea name="message" placeholder="Message"
+                                <textarea name="message" placeholder="Remarks"
                                           data-constraints=""></textarea>
                             </label>
 
@@ -757,32 +739,24 @@
                     <h4 class="text-secondary-1">Social</h4>
                     <!--list-->
                     <ul class="list">
-                        <li><a href="#">Twitter</a></li>
-                        <li><a href="#">Facebook</a></li>
-                        <li><a href="#">Instagram</a></li>
-                        <li><a href="#">Google+</a></li>
+                        <li><a href="https://fb.com/thedancefloornepal">Facebook</a></li>
                     </ul>
                     <!--end list-->
                 </div>
                 <div class="col-md-4 col-md-release col-sm-6 col-sm-clear col-xs-12 cbp-so-side cbp-so-side-right">
-                    <h4 class="text-secondary-1">Contacts</h4>
+                    <h4 class="text-secondary-1" id="contacts">Contacts</h4>
                     <!--contact-info-->
                     <address class="contact-info text-secondary-1">
-                        <p>Swimming pool premises<br/>Woodland Complex, <br>
-                            Durbar Marg.</p>
+                      
                         <dl class="terms-list">
-                            <dt>NTC,Viber, <br/>Whatsapp:</dt>
-                            <dd><a href="callto:#"><br/>+977 9851169646  </a></dd>
+                            <dt>NTC,Viber,Whatsapp:</dt>
+                            <dd><a href="callto:#">+977 9851169646  </a></dd>
                         </dl>
                         <dl class="terms-list">
                             <dt>Ncell:</dt>
                             <dd><a href="callto:#">+977 9808641403</a></dd>
                         </dl>
-                        <dl class="terms-list">
-                            <dt class="uppercase">Fax:</dt>
-                            <dd><a href="callto:#">+1 800 889 9898</a></dd>
-                        </dl>
-                        <a href="mailto:#">Dancewithashok@gmail.com</a>
+                        <a href="mailto:dancewithashok.com">Dancewithashok@gmail.com</a>
                     </address>
                     <!--end contact-info-->
                 </div>
@@ -790,7 +764,7 @@
                     <!--Brand-->
                     <div class="brand">
                         <h1 class="brand_name">
-                            <a href="./"><img src="images/ashok/logo.jpg" alt=""></a>
+                            <a href="./"><img src="images/ashok/center-logo.jpg" alt=""></a>
                         </h1>
                     </div>
                     <!--End Brand-->
