@@ -705,7 +705,7 @@
            
                                     </li>
                                     <li>
-                                        <strong>On phone:</strong> Please call us and drops your name and class details.
+                                        <strong>On phone:</strong> Please <a href="#contacts">call us</a> and drop your name and class details.
                                     </li>
                                 </ol>
                             </div>
