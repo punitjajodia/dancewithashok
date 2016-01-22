@@ -1725,3 +1725,48 @@ footer .copyright {
  .product_caption {
      min-width: 300px;
  }
+
+ #about p, #about ol {
+     color: white;
+ }
+
+ #about ol {
+     list-style: disc;
+     margin-left: 20px;
+ }
+
+ #studio-image {
+     height: 400px;
+     background-image: url("../images/ashok/studio-outside.jpg");
+     background-size: cover;
+     background-position: center bottom;
+ }
+
+ #faqs a {
+     text-decoration: underline;
+ }
+
+ #faqs tr {
+     border-bottom: 1px solid black;
+ }
+
+ #faqs th {
+     font-weight: 900;
+ }
+
+ #faqs td, #faqs th {
+     padding: 20px;
+ }
+
+ .left-align {
+     text-align: left;
+ }
+
+ #faqs ol {
+     list-style:decimal;
+     margin-left: 20px;
+ }
+
+ #faqs ol li {
+     margin-top: 15px;
+ }
