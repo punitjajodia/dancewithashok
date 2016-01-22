@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Home</title>
+    <title>Dance with Ashok</title>
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no" />
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
@@ -148,7 +148,7 @@
                                 Why we suggest people to start dancing Salsa?
                             </div>
                             <div class="answer">
-                                <p>We always admire others dancing but don�t dare to dance because we are too shy or concerned what others would say. Besides, we don't want to do something we are not good at.</p>
+                                <p>We always admire others dancing but don't dare to dance because we are too shy or concerned what others would say. Besides, we don't want to do something we are not good at.</p>
                                 <p>
                                     SALSA is a simple yet, elegant and graceful dance form. It is often related with walking in a sense that anyone, even with two left feet, who can walk can do Salsa. How to do salsa gives you confidence to step on the dance floor and overcome the fear of dancing. It builds self-confidence, discipline and concentration. It is a great hobby that also makes people social and outgoing. It gives you freedom to move, to dream with your feet, to feel and to inspire others
                                 </p>
@@ -274,8 +274,8 @@
                                     12:00 to 2:00pm<br />
                                     2:00 to 4:00pm<br />
 
-                                    <h6>For Pricing</h6>
-                                    <a href="" id="pricing">Click here</a>
+                                    <h6><a href="" id="pricing">Pricing</a></h6>
+                                
                                 </div>
                                 <!--<div class="product_img">
                                     <a class="thumb" href="images/ashok/test.pdf" data-gallery="2">
@@ -898,7 +898,7 @@
                                 <dt>Ncell:</dt>
                                 <dd><a href="callto:#">+977 9808641403</a></dd>
                             </dl>
-                            <a href="mailto:dancewithashok.com">Dancewithashok@gmail.com</a>
+                            <a href="mailto:dancewithashok.com">dancewithashok@gmail.com</a>
                         </address>
                         <!--end contact-info-->
                     </div>

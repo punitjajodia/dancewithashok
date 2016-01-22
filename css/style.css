@@ -1770,3 +1770,11 @@ footer .copyright {
  #faqs ol li {
      margin-top: 15px;
  }
+
+ #intro p, #intro ol {
+    color: black;
+}
+
+ .contact-info a[href^="mailto:"] {
+  text-transform: none;
+}
