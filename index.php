@@ -132,7 +132,7 @@
                                 What is Salsa?
                             </div>
                             <div class="answer">
-                                <p>Salsa is a couple/partner dance which is danced based on  the rule of lead- follow. The leader, (on most occasions  the male  partner) takes the responsibility to think which steps to do and tries to convey it to the follower (on most occasions the female partner) through subtle movement and signals.</p><p>Except in performances and shows, it is spontaneous and  each couples may do different moves on the same beat or music.</p><p>Salsa originated basically from Latin American countries like Cuba, Puerto Rico, Colombia etc. However the places like New York and Los Angeles have also contributed a lot in bringing salsa to the current state. It is normally danced on Latin songs which are in Spanish.</p>
+                                <p>Salsa is a couple/partner dance which is based on the rule of lead-follow. The leader (on most occasions the male partner) takes the responsibility of think which steps to do and tries to convey it to the follower (on most occasions the female partner) through subtle movements and signals.</p><p>Except in performances and shows, it is spontaneous and each couples may do different moves on the same beat or music.</p><p>Salsa originated basically from Latin American countries like Cuba, Puerto Rico, Colombia etc. However the places like New York and Los Angeles have also contributed a lot in bringing salsa to the current state. It is normally danced on Latin songs which are in Spanish.</p>
                             </div>
                         </div>
                         <div class="faq col-md-12">
@@ -140,7 +140,7 @@
                                 What is the scope of Salsa dance in Nepal?
                             </div>
                             <div class="answer">
-                                <p>Salsa was introduced in Nepal one and a half decades ago and now it has developed as a hobby and a profession.</p><p>Currently, people have shown great interest towards this dance form by showing up in salsa classes,social parties, workshops and festivals organized by different dance schools.</p><p>The salsa circle has enabled people to break free, to make friends, interact, socialize and come together for an aspirating activity. They dance out loud and influence others to start too.</p><p>College students and other professionals travelling abroad also find it handy as it helps them to mingle with various social circles and make friends.</p><p>We repeatedly hear from our students that because of their salsa circle they are able to find jobs and make professional contacts in Nepal and abroad. Besides, passionate dancers have taken this activity professionally and  the culture of travelling within the country and abroad for salsa parties,  performances and trainings have also begun.</p>
+                                <p>Salsa was introduced in Nepal one and a half decades ago and now it has developed as a popular hobby and a profession.</p><p>More recently, people have shown great interest towards this dance form by showing up in salsa classes, social parties, workshops and festivals organized by different dance schools.</p><p>The salsa circle has enabled people to break free, to make friends, interact, socialize and come together. We dance out loud and influence others to start too.</p><p>College students and other professionals travelling abroad also find it handy as it helps them to mingle with various social circles and make friends.</p><p>We repeatedly hear from our students that because of their salsa circle they are able to find jobs and make professional contacts in Nepal and abroad. Besides, passionate dancers have taken this activity professionally and  the culture of travelling within the country and abroad for salsa parties,  performances and trainings has also started taking shape.</p>
                             </div>
                         </div>
                         <div class="faq col-md-12">
@@ -148,9 +148,9 @@
                                 Why we suggest people to start dancing Salsa?
                             </div>
                             <div class="answer">
-                                <p>We always admire others dancing but don't dare to dance because we are too shy or concerned what others would say. Besides, we don't want to do something we are not good at.</p>
+                                <p>We always admire others dancing but don't dare to dance because we are too shy or concerned what others would say. Nobody wants to do something they are not good at.</p>
                                 <p>
-                                    SALSA is a simple yet, elegant and graceful dance form. It is often related with walking in a sense that anyone, even with two left feet, who can walk can do Salsa. How to do salsa gives you confidence to step on the dance floor and overcome the fear of dancing. It builds self-confidence, discipline and concentration. It is a great hobby that also makes people social and outgoing. It gives you freedom to move, to dream with your feet, to feel and to inspire others
+                                    SALSA is a simple yet, elegant and graceful dance form. It is often related with walking in a sense that anyone who can walk can do Salsa. Learning how to Salsa gives you confidence to step on the dance floor and overcome the fear of dancing. It builds self-confidence, discipline and concentration. It is a great hobby that also makes people social and outgoing. It gives you freedom to move, to dream with your feet and teaches you to perform as a team and to inspire others.
                                 </p>
 
                                 </ul>
