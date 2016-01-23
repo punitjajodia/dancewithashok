@@ -435,7 +435,7 @@
                                     <div class="post_caption_cnt">
                                         <div class="description-text">
 
-                                            <span>5 weeks (Feb 13-March 12)</span>
+                                            <span>5 weeks (Feb 13-Mar 12)</span>
 
                                             <span>
                                                 Saturdays, 2 hours class<br />2:15 to 4:15pm
