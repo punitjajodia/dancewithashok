@@ -1778,3 +1778,19 @@ footer .copyright {
  .contact-info a[href^="mailto:"] {
   text-transform: none;
 }
+
+.map .location {
+    height: 775px;
+    background-image: url("../images/ashok/map.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+ @media (min-width: 1000px){
+    .map .location {
+        position: relative;
+        top: 164px;
+    }
+ }
+
+ }

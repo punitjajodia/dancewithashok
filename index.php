@@ -842,7 +842,7 @@
                     </div>
                     <!--RD Google map-->
                     <div class="map">
-                        <img class="img-responsive" src="images/ashok/map.PNG" />
+                        <div class="location"></div>
                     </div>
                     <!--End RD Google map-->
                 </div>
