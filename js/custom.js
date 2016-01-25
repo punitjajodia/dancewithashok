@@ -24,4 +24,6 @@ $("#pricing").click(function (e) {
         scrollTop: $("#pricing-answer").offset().top
     }, 1000);
     $("#pricing-answer").siblings(".answer").slideDown("fast");
-})
+});
+
+$("table").wrap("<div class='table'></div>");

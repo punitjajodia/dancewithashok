@@ -1530,7 +1530,7 @@ footer .copyright {
   #instructor-description {
     border-left: none!important;
     border-top: none!important;
-    text-align: left;
+    text-align: center;
     }
 
 }
@@ -1713,7 +1713,7 @@ footer .copyright {
      background-color:#e0e0e0;
      border-bottom-right-radius: 20px;
      border-bottom-left-radius: 20px;
-     font-weight: 100;
+     font-weight: 300;
  }
 
  #intro .answer ul {
@@ -1793,4 +1793,7 @@ footer .copyright {
     }
  }
 
+ .table {
+  max-width: 100%;
+  overflow-x: auto; 
  }

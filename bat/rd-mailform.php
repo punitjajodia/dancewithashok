@@ -97,7 +97,7 @@ $mail->Username = "tinup.ojaj@gmail.com";
 $mail->Password = "C0mmun!ty";
 
 //Set an alternative reply-to address
-$mail->addReplyTo($recipients, isset($_POST['name']) ? $_POST['name'] : "Salsa Student");
+$mail->addReplyTo($_POST['email'], isset($_POST['name']) ? $_POST['name'] : "Salsa Student");
 //Set who the message is to be sent to
 //Set the subject line
 

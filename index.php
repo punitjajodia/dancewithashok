@@ -813,7 +813,7 @@
                                     <select name="Batch">
                                         <option>Select a batch</option>
                                         <option>Jan 28 Batch</option>
-                                        <option>Feb 5 Batch</option>
+                                        <option>Feb 13 Batch</option>
                                     </select>
                                 </label>
 
