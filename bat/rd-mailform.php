@@ -1,6 +1,6 @@
 <?php
 
-$recipients = 'ashok.bhandari.acca@gmail.com punit@parewalabs.com';
+$recipients = 'ashok.bhandari.acca@gmail.com';
 //$recipients = '#';
 
 try {
@@ -97,13 +97,13 @@ $mail->Username = "tinup.ojaj@gmail.com";
 $mail->Password = "C0mmun!ty";
 
 //Set an alternative reply-to address
-//$mail->addReplyTo($email, $name);
+$mail->addReplyTo($recipients, isset($_POST['name']) ? $_POST['name'] : "Salsa Student");
 //Set who the message is to be sent to
 //Set the subject line
 
 
     foreach ($addresses[0] as $key => $value) {
-        $mail->addAddress($value[0], "Punit Jajodia");
+        $mail->addAddress($value[0], "Ashok Bhandari");
     }
 
     $mail->CharSet = 'utf-8';
