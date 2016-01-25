@@ -404,7 +404,7 @@
 
 
                                             <span>
-                                                Rs. 2500 per person <a href="#registration">Register Online</a>
+                                                Rs. 2500 per person<br/><a href="#registration">Register Online</a>
                                             </span>
 
                                         </div>
@@ -438,13 +438,12 @@
                                             <span>5 weeks (Feb 13-Mar 12)</span>
 
                                             <span>
-                                                Saturdays, 2 hours class<br />2:15 to 4:15pm
+                                                Saturdays, 2 hours classes<br />2:15 to 4:15pm
 
                                             </span>
 
-
                                             <span>
-                                                Rs. 2500 per person<a href="#registration">Register Online</a>
+                                                Rs. 2500 per person<br/><a href="#registration">Register Online</a>
                                             </span>
 
                                         </div>
