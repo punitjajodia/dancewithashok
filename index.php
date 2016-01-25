@@ -910,7 +910,7 @@
                         </div>
                         <!--End Brand-->
                         <div class="copyright cbp-so-side cbp-so-side-left text-secondary-1 uppercase">
-                            The Dance Floor<span id="copyright-year"></span> <br> &copy; All rights reserved
+                            The Dance Floor&nbsp;<span id="copyright-year"></span> <br> &copy; All rights reserved
                             <!-- {%FOOTER_LINK} -->
                         </div>
                     </div>
