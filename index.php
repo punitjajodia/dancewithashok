@@ -430,15 +430,15 @@
                                 </div>
                                 <div class="post_caption">
                                     <time datetime="2016-01-25">
-                                        <span class="month">FEB </span><span class="day">13</span>
+                                        <span class="month">JAN </span><span class="day">31</span>
                                     </time>
                                     <div class="post_caption_cnt">
                                         <div class="description-text">
 
-                                            <span>5 weeks (Feb 13-Mar 12)</span>
+                                            <span>5 weeks (Jan 31-Mar 1)</span>
 
                                             <span>
-                                                Saturdays, 2 hours classes<br />2:15 to 4:15pm
+                                               Sundays and Tuesdays<br />5:00 to 6:00pm
 
                                             </span>
 
@@ -812,6 +812,7 @@
                                     <select name="Batch">
                                         <option>Select a batch</option>
                                         <option>Jan 28 Batch</option>
+										<option>Jan 31 Batch</option>
                                         <option>Feb 13 Batch</option>
                                     </select>
                                 </label>
