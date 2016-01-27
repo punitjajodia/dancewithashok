@@ -122,7 +122,7 @@
                             <p>
                                 Next to Swimming Pool<br />
                                 Woodland Hotel<br />
-                                Durbar Marg, Kathmandu
+                                Durbar Marg, KTM
                             </p>
                         </div>
                     </div>
