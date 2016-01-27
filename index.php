@@ -175,7 +175,7 @@
                                 </div>
                                 <div class="about-salsa-description">
                                     <p>
-                                        Salsa is a couple/partner dance which is danced based on  the rule of lead- follow. The leader, (on most occasions  the male  partner) takes the responsibility to think which steps to do and tries to convey it to the follower (on most occasions the female partner) through suttle movement and signals.
+                                        Salsa is a popular couple/partner dance which is danced based on  the rule of lead- follow. The leader, (on most occasions  the male  partner) takes the responsibility to think which steps to do and tries to convey it to the follower (on most occasions the female partner) through suttle movement and signals.
                                     </p>
                                     <p>
                                         Except in performances and shows, it is spontaneous and  each couples may do different moves on the same beat or music. Salsa originated basically from Latin American countries like Cuba, Puerto Rico, Colombia etc. However the places like New York and Los Angeles have also contributed a lot in bringing salsa to the current state. It is normally danced on Latin songs which are in Spanish.
