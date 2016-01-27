@@ -111,7 +111,7 @@
                             <li>The branch studio is in Jhamshikhel at 8 Degree Restaurant where workshops are organized from time to time.</li></ol> 
                              
                             <p>Every day, we inspire non-dancers and dancers of other dance forms to start dancing Salsa. The dance floor is not just a dance company but also a community of fun loving and passionate people from different professions and backgrounds.</p> 
-                            <p class="uppercase">Everyone is welcome to join us in experiencing the pleasure of Salsa, a simple yet beautiful and graceful dance form!
+                            <p class="uppercase">Everyone is welcome to join us in experiencing the pleasure of Salsa, a simple yet elegant and graceful dance form!
                             </p>
                         </div>
                         <div class="col-lg-5 inset-1 cbp-so-side cbp-so-side-right" id="our-studio">
@@ -122,7 +122,7 @@
                             <p>
                                 Next to Swimming Pool<br />
                                 Woodland Hotel<br />
-                                Durbar Marg, KTM
+                                Durbar Marg, Kathmandu
                             </p>
                         </div>
                     </div>
